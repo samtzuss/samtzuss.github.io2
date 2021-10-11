@@ -1,0 +1,53 @@
+# 在你的项目中安装
+npm install -D vuepress@next
+
+# 新建一个 markdown 文件
+echo '# Hello VuePress' > README.md
+
+# 开始写作
+npx vuepress dev
+
+# 构建静态文件
+npx vuepress build
+
+pagkage.json
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
+
+mkdir docs
+echo '# Hello VuePress' > docs/README.md
+npm run docs:dev
+npm run docs:build
+
+專案資料夾結構
+https://ithelp.ithome.com.tw/articles/10237236
+.
+├── .vuepress (可選的)
+│   ├── components (可選的)
+│   ├── theme (可選的)
+│   │   └── Layout.vue
+│   ├── public (可選的)
+│   ├── styles (可選的)
+│   │   ├── index.styl
+│   │   └── palette.styl
+│   ├── templates (可選的, 謹慎配置)
+│   │   ├── dev.html
+│   │   └── ssr.html
+│   ├── config.js (可選的)
+│   └── enhanceApp.js (可選的)
+│
+├── README.md
+│
+├── news
+│   ├── README.md
+│   └── test.md
+│
+├── config.js
+│
+├── yarn.lock
+│
+└── package.json

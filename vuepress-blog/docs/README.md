@@ -22,7 +22,7 @@ home: true
     </el-carousel>
     <span class="title">我的公众号</span>
     <span class="time">{{ currentDate }}</span>
-    <img src="/public/wechat.png"
+    <img src="./public/wechat.png"
         class="image">
 </template>
 
@@ -32,30 +32,30 @@ home: true
             return {
                 currentDate: new Date(),
                 arrPng: [{
-                        pngLink: 'https://images.qiufeihong.top/mocha.png',
-                        docLink: 'https://www.qiufeihong.top/technical-summary/mocha/'
+                        pngLink: 'https://images.chinatimes.com/newsphoto/2021-10-18/1024/BS1A00_P_05_02.jpg',
+                        docLink: 'https://www.chinatimes.com/sports/?chdtv'
                     },
                     {
-                        pngLink: 'https://images.qiufeihong.top/gitlab.png',
-                        docLink: 'https://www.qiufeihong.top/technical-summary/gitlab/'
+                        pngLink: 'https://images.chinatimes.com/newsphoto/2021-10-18/1024/20211018001297.jpg',
+                        docLink: 'https://www.chinatimes.com/realtimenews/20211018001295-260403?ctrack=pc_sports_headl_p02&chdtv'
                     }, {
-                        pngLink: 'https://images.qiufeihong.top/jk.jpeg',
-                        docLink: 'https://www.qiufeihong.top/technical-summary/jenkins/'
+                        pngLink: 'https://images.chinatimes.com/newsphoto/2021-10-18/1024/20211018003450.jpg',
+                        docLink: 'https://www.chinatimes.com/realtimenews/20211018003443-260403?chdtv'
                     }, {
-                        pngLink: 'https://images.qiufeihong.top/vuepress2.png',
-                        docLink: 'https://www.qiufeihong.top/technical-summary/vuepress/'
+                        pngLink: 'https://images.chinatimes.com/newsphoto/2021-10-18/1024/20211018003119.jpg',
+                        docLink: 'https://www.chinatimes.com/realtimenews/20211018003111-260403?chdtv'
                     }, {
-                        pngLink: 'https://images.qiufeihong.top/apidoc6.jpg',
-                        docLink: 'https://www.qiufeihong.top/technical-summary/apiDoc/'
+                        pngLink: 'https://images.chinatimes.com/newsphoto/2021-10-03/1024/BS1A00_P_01_02.jpg',
+                        docLink: 'https://www.chinatimes.com/realtimenews/20211018002710-260403?chdtv'
                     }, {
-                        pngLink: 'https://images.qiufeihong.top/nginx-ssl-https.jpg',
-                        docLink: 'https://www.qiufeihong.top/technical-summary/nginx-ssl-https/'
+                        pngLink: 'https://images.chinatimes.com/newsphoto/2021-10-18/1024/20211018001902.jpg',
+                        docLink: 'https://www.chinatimes.com/realtimenews/20211018001900-260403?chdtv'
                     }, {
-                        pngLink: 'https://images.qiufeihong.top/login.png',
-                        docLink: 'https://www.qiufeihong.top/technical-summary/navigation/'
+                        pngLink: 'https://images.chinatimes.com/newsphoto/2021-10-18/1024/20211018001171.jpg',
+                        docLink: 'https://www.chinatimes.com/realtimenews/20211018001164-260403?chdtv'
                     }, {
-                        pngLink: 'https://images.qiufeihong.top/watch.jpg',
-                        docLink: 'https://www.qiufeihong.top/technical-summary/watchLog/'
+                        pngLink: 'https://images.chinatimes.com/newsphoto/2021-10-18/1024/20211018000950.jpg',
+                        docLink: 'https://www.chinatimes.com/realtimenews/20211018000924-260403?chdtv'
                     }
                 ]
             }

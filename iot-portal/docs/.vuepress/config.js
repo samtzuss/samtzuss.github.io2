@@ -25,4 +25,12 @@ module.exports = {
       lang: 'zh-TW',
     }
   },
+  /*
+  Markdown: {
+    links: {
+      externalIcon: false
+    }
+  }
+
+  */
 }

@@ -15,4 +15,26 @@ featured: true
 
 ![test images](https://fakeimg.pl/350x200/?text=Hello)
 
-![VuePress Logo](https://picsum.photos/200/300)
+![VuePress Logo](https://picsum.photos/200/400)
+
+Try [![VuePress Logo](https://picsum.photos/200/300)](https://www.google.com/) for more info.
+
+<style>
+td, th {
+   /* border: none!important; */
+   border: 1px solid white;
+}
+
+th {
+  display: none;
+}
+
+a span svg {
+  display: none;
+}
+</style>
+
+|  | |
+| --- | --- |
+| [<img src="/images/img-100x100.jpg" width="70" height="70">](https://www.google.com/) <br />git status | [![VuePress Logo](https://picsum.photos/50/50)](https://www.google.com/) <br />git status  |
+| [![VuePress Logo](https://picsum.photos/50/50)](https://www.google.com/) <br />desc | [![VuePress Logo](https://picsum.photos/50/50)](https://www.google.com/) <br />git status  |

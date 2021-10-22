@@ -1,18 +1,18 @@
 ---
 date: '2020-09-15'
-slug: jamstack
+slug: AGAI
 tags:
 - 前端開發
 - VuePress
 - Vue
-title: JAMstack 到底是什麼巫術？
-description: 來聊聊什麼是 JAMstack
+title: AGAI智慧雲
+description: demo only
 image: https://i.imgur.com/u7De015.png
 featured: true
 # externalIcon: false
 ---
 <!-- comment here -->
-# Hello VuePress中文
+# 工業IOT雲服務應用項目
 
 <style>
 td, th {

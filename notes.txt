@@ -51,3 +51,44 @@ https://ithelp.ithome.com.tw/articles/10237236
 ├── yarn.lock
 │
 └── package.json
+
+*9];]&.?|
+
+https://azure.microsoft.com/zh-tw/
+admin@agaicloud.onmicrosoft.com / Sam0926721122@
+
+https://docs.microsoft.com/zh-tw/learn/azure/
+
+雲端服務: [allis.igreent.com](http://allis.igreent.com/)
+客戶編號: allis
+帳號: agai
+密碼: 123456
+
+雲端服務: [iot.igreent.com](http://iot.igreent.com/)
+客戶編號: igreen
+帳號: agai
+密碼: 123456
+
+[login]
+https://terryz.github.io/vuepress-login/
+
+github
+https://github.com/TerryZ/vuepress-login
+
+[david api]
+http://www.igreent.com:8081/default.aspx
+119.14.176.52:8081
+ScriptManager: UpdatePanel1|Button3
+__EVENTTARGET:
+__EVENTARGUMENT:
+__LASTFOCUS:
+__VIEWSTATE: WmRDdRy6Ce0uqR562fRq9vmf3mK295skAx5wQypk3UIO3lXdkuF8pglRaivSXbjojbzsI3t109pkwrf6cM6fParh3w4nrm9GPxAiz3uwuArr9b336895zspSzSzQw9Lzh7by096lLogQX0794UVgCcX1okOsOMaWqS5noGKNY1RlsrgW7uQh/bQsVZ6YlDCv3ahr4Iu52D1ABmJXn0/LkKUhR0RooMxGGFj9n0ZcnovSMLSxNVZrzCOaQEVBkjJdG/wJGZRX4RizUlj+heQrx8AqJblAMYdheu56p0iy8YkU4VjGBFfG6el3h25yACFGmAE4wkJ798JTMhL/8fD7rKNxzAlfP6OO2uqhcFOkMx/erwHI6SWtDkBlPPbX3dTmh3JjkxdF+Sc4jiT09ofomCskGFL9jZByoZDIeEBqJSx7pggwHiWMas9l4o8Sa0ThIj9XmGcnmm++785w5Sz3+oocnU+K5j/xXf3IO+FvofCZxKwZtHnDJpVxeWxd6BgW
+__VIEWSTATEGENERATOR: CA0B0334
+__EVENTVALIDATION: /8Cfwx5FRHf5UWxE9vj0e6cX5iCLkWpjNW5h860ht4vWFJed5AvtEGBZvjJ5Nvtmd+anIMgq0DhFGPx4VWulCAT73OayMh89YZqppAGhChulvcg3T+MWNJ8AGuDwjCdulayW9m29Qr2CrpYV0yNQ5ZFCR6PE7omSJVkOOQ+U9U8/i6FRt9qRJVKYbryznv+RnQqfZor+WqttR4tka0WfarrMOniuWIlspRYiUWNZ3nBIMnBS9r7EShTYVpghIufJp+iMbyRiP11JspPqfQBL3CQzi2kPvcJ0ReYs7hwR3rVZmuh/63YOOUPbY/I4P20OzYpurLI75WXa4AtMcYrl2Q==
+DropDownList1: allis.igreent.com
+txtCust_id: allis
+txtName: agai
+txtPwd: 123456
+txtTXM: 57807
+hiddenInputToUpdateATBuffer_CommonToolkitScripts: 1
+__ASYNCPOST: true

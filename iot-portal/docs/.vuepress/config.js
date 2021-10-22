@@ -6,7 +6,10 @@ module.exports = {
     logo: 'https://picsum.photos/100/70',
     nav : [
       { text: 'Home', link: '/' }
-    ]
+    ],
+    lastUpdated: false,
+    contributors: false,
+    sidebar: false
   },
   head: [
     [ 'link', { rel: 'icon', href: '/images/agai-favicon.ico' },

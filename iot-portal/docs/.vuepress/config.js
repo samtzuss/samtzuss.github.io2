@@ -1,6 +1,6 @@
 module.exports = {
   lang: 'zh-TW',
-  title: 'AGAI智慧雲 - 工業IOT',
+  title: 'AGAI智慧雲 - 工業物聯網',
   description: '這是AGAI iot智慧雲demo',
   themeConfig : {
     logo: 'https://picsum.photos/100/70',

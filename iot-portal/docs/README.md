@@ -15,6 +15,7 @@ featured: true
 # 工業IOT雲服務應用項目
 
 <style>
+table { width: 1000px; }
 td, th {
    /* border: none!important; */
    border: 1px solid white;

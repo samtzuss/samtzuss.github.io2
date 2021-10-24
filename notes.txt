@@ -92,3 +92,37 @@ txtPwd: 123456
 txtTXM: 57807
 hiddenInputToUpdateATBuffer_CommonToolkitScripts: 1
 __ASYNCPOST: true
+
+[push to github pages]
+cd \apps\jagai-portal\iot-portal
+npm run docs:build
+cd \apps\jagai-portal\iot-portal\docs\.vuepress\dist
+git init
+git add -A
+git commit -m "deploy"
+git push -f git@github.com:samtzuss/samtzuss.github.io.git master
+samtzuss
+/
+github > samtzuss.github.io > setting > Pages(左側) > Source > Branch設定成master/gh-pages
+https://samtzuss.github.io
+
+[icon]
+CNC數據採集監控應用
+太陽能產業平台應用
+太陽能發電數據監控應用
+水錶數據監控應用
+平面磨床數據監控應用
+生產檢驗工業電腦數據採集整合應用
+氣體數據監控應用
+海水淡化系統數據監控應用
+烘烤爐爐溫監控應用
+純水系統數據監控應用
+國軍武器進出管理系統
+產線安燈系統管理系統
+連續爐爐溫監控應用
+散熱管產業智慧製造應用 (無連結, 只照片)
+無塵室落塵監控應用
+電錶能源安全應用
+機台三色燈狀態監控應用
+環境數據監控應用
+鑄造業配方參數管理系統 (無連結, 只照片)
